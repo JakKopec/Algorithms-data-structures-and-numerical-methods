@@ -1,0 +1,5 @@
+W pliku InterpolacjaLagrangea.txt znajduje się informacja o ilości węzłów oraz, o punktach będących węzłami oraz wartości funkcji w tych punktach.
+
+W pierwszej linijce pliku znajduje się ilość węzłów interpolacji. Następne linijki oznaczają kolejno: współrzędna 'x' węzła, wartość funkcji dla węxła,współrzędna 'x' węzła...
+
+Aby dodać kolejne wezly koniecznie należy zmienić wartość w pierwszej linijce pliku - inaczej program nie będzie uwzględniać kolejnych punktów! 

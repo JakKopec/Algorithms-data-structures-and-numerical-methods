@@ -1,0 +1,7 @@
+Liczba w pierwszym wierszu definiuje ilość równań, kolejne wiersze zawierają wartości stałych przy kolejnych niewiadomych.
+Zapis typu:
+1
+1
+2
+-1
+oznacza równanie postaci x+y+2z=-1. Kolejne równania oddzielane się symolem '_'

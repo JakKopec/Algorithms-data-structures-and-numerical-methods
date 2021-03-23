@@ -1,0 +1,11 @@
+W pliku InterpolacjaNewtonaa.txt znajduje się informacja o ilości węzłów oraz, o punktach będących węzłami oraz wartości funkcji w tych punktach.
+
+W pierwszej linijce pliku znajduje się ilość węzłów. Następne linijki oznaczają kolejno: współrzędna 'x' węzła, wartość funkcji dla węxła,współrzędna 'x' węzła...
+
+Aby dodać kolejne wezly koniecznie należy zmienić wartość w pierwszej linijce pliku - inaczej program nie będzie uwzględniać kolejnych punktów! 
+
+Po uruchomieniu programu w pierwszej linijce pojawia się wielomian interpolacyjny w postaci Newtona. Liczby będące przy wyrażeniach (x-węzeł) to współczynniki wielomianu interpolacyjnego Bi w postaci newtona.
+
+Podanie liczby i potwierdzenie klawiszem enter spowoduje obliczenie wartości wielomianu dla punktu o wpółrzędnej równej podanej liczbie. Aby obliczyć kolejne wartości należy nacisnąć klawisz "y" i potwierdzić klawiszem "enter". Każda inna kombinacja zakończy program. Uwaga: jeśli zamiast liczby wpisze się literę lub inny symbol, program przestanie działać poprawnie.
+
+Dane w pliku InterpolacjaNewtona.txt zawierają dane umieszczone w Pani dokumencie opublikowanym na stronie przedmiotu.
